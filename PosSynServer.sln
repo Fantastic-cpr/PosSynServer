@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosSynServer", "PosSynServer\PosSynServer.csproj", "{89D8EEE2-D8E5-4EC0-B7D2-A03424F2E996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectBridge", "ConnectBridge\ConnectBridge.csproj", "{3528B9B7-339E-4942-9A08-0876651266FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLTest", "SQLTest\SQLTest.csproj", "{6D6E0904-4810-425C-8F31-EC9CEBD3D71B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89D8EEE2-D8E5-4EC0-B7D2-A03424F2E996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D8EEE2-D8E5-4EC0-B7D2-A03424F2E996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D8EEE2-D8E5-4EC0-B7D2-A03424F2E996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D8EEE2-D8E5-4EC0-B7D2-A03424F2E996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3528B9B7-339E-4942-9A08-0876651266FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3528B9B7-339E-4942-9A08-0876651266FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3528B9B7-339E-4942-9A08-0876651266FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3528B9B7-339E-4942-9A08-0876651266FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D6E0904-4810-425C-8F31-EC9CEBD3D71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6E0904-4810-425C-8F31-EC9CEBD3D71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D6E0904-4810-425C-8F31-EC9CEBD3D71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6E0904-4810-425C-8F31-EC9CEBD3D71B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
